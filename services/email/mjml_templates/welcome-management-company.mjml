@@ -1,0 +1,25 @@
+<mjml>
+  <mj-body>
+    <mj-section border="1px solid #cecece">
+      <mj-column>
+
+        <mj-image width="230px" height="70px" padding="0" margin="0" src="https://csgoskin2keys.com/logo%20email.png"></mj-image>
+
+        <mj-text font-size="15px" font-family="helvetica" line-height="20px">
+          Greetings! <br/><br/>
+          
+          Welcome to Compliance Linc. <br/>
+          The following are your login credentials:  <br/><br/>
+          
+          Username: <span style="color: red;">USER_USERNAME</span> <br/>
+          Password&nbsp;: <span style="color: red;">USER_PASSWORD</span> <br/><br/>
+          
+          You can click <i><a href="csgoskin2keys.com">here</a></i> to go to the website directly. <br/><br/>
+
+          Thanks. <br/>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
