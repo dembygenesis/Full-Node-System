@@ -21,7 +21,7 @@
     "fs": "^0.0.1-security",
     "generate-password": "^1.4.1",
     "gmail-send": "^1.2.14",
-    "googleapis": "^37.2.0",
+    "googleapis": "^39.1.0",
     "html-minifier": "^4.0.0",
     "i": "^0.3.6",
     "intuit-oauth": "^1.1.3",
