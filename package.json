@@ -2,7 +2,7 @@
   "dependencies": {
     "app-root-path": "^2.1.0",
     "async": "^2.6.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "^0.0.3",
     "concurrently": "^4.1.0",
     "cookie-parse": "^0.4.0",
