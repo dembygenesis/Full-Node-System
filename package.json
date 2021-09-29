@@ -23,7 +23,7 @@
     "gmail-send": "^1.2.14",
     "googleapis": "^37.2.0",
     "html-minifier": "^4.0.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "intuit-oauth": "^1.1.3",
     "lodash": "^4.17.11",
     "minify": "^4.1.1",
